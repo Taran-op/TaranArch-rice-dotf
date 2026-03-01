@@ -1,1 +1,2 @@
-Version Incompatible (dots supported for 0.50.1)
+Version Incompatible (dots supported for 0.50.1)......
+just create an issue if u want updated configs and I'll work on it <3
